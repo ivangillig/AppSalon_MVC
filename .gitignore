@@ -1,5 +1,5 @@
 node_modules/
-vendors/
+vendor/
 src/
 appsalon_mvc.sql
 gulpfile.js
