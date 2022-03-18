@@ -1,0 +1,24 @@
+{
+    "name": "kabeza/app-salon_php_mvc_js_sass",
+    "description": "MVC, SQL, SASS, Gulp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kabeza\\AppSalonPhpMvcJsSass\\": "src/",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers", 
+            "Model\\" : "./models" ,
+            "Classes\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivangillig",
+            "email": "48303606+ivangillig@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
