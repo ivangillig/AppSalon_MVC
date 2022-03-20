@@ -36,3 +36,12 @@
     <a href="/crear-cuenta">¿Aún no tienes una cuenta? Crear una</a>
     <a href="/olvide">Olvide mi contraseña</a>
 </div>
+
+<div>   
+            <br>
+            <br>
+            <br>
+            <p>Usuarios para prueba</p>
+            <p>cliente@correo.com / 123456</p>
+            <p>admin@correo.com / 123456</p>
+</div>
