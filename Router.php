@@ -41,11 +41,11 @@ class Router
         $fn = $this->postRoutes[$splitURL[0]] ?? null;
         }
 
-        if ($method === 'GET') {
-            $fn = $this->getRoutes[$currentUrl] ?? null;
-        } else {
-            $fn = $this->postRoutes[$currentUrl] ?? null;
-        }
+        // if ($method === 'GET') {
+        //     $fn = $this->getRoutes[$currentUrl] ?? null;
+        // } else {
+        //     $fn = $this->postRoutes[$currentUrl] ?? null;
+        // }
 
 
         if ( $fn ) {
