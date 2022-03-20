@@ -33,8 +33,8 @@ class APIController {
 
         foreach($idServicios as $idServicio){
             $args = [
-                'citasId' => $id,
-                'serviciosId' => $idServicio
+                'citaId' => $id,
+                'servicioId' => $idServicio
             ];
 
             $citaServicio = new CitaServicio($args);
