@@ -6,6 +6,5 @@
 
 Primer proyecto integrador del curso FullStack de Juan De La Torre.
 
-Aún en proceso de deployment:
 
 
